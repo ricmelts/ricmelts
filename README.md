@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on building an algorithmic trading platform centered in an academic approach.
 - 📫 How to reach me eric@viaveri.co
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love to travel and have been fortunate to see all seven continents. Some of my favorite places have been South Africa, Thailand, and Israel.
+- ⚡ Fun fact: I love to travel and have been fortunate to see all seven continents. Some of my favorite places have been South Africa, Thailand, and Alaska.
 
 <!---
 ricmelts/ricmelts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
